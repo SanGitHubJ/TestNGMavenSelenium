@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="64069" started-at="2018-05-20T10:07:47Z" finished-at="2018-05-20T10:08:51Z">
+    <groups>
+    </groups>
+    <test name="freeCRMTestAutomation" duration-ms="64069" started-at="2018-05-20T10:07:47Z" finished-at="2018-05-20T10:08:51Z">
+      <class name="com.crm.qa.testcases.LogingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LogingPageTest@ea4a92b]" name="setUp" is-config="true" duration-ms="43324" started-at="2018-05-20T18:07:47Z" finished-at="2018-05-20T18:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logingPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LogingPageTest@ea4a92b]" name="logingPageTitleTest" duration-ms="71" started-at="2018-05-20T18:08:31Z" finished-at="2018-05-20T18:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logingPageTitleTest -->
+        <test-method status="PASS" signature="crmLogoImgageTest()[pri:2, instance:com.crm.qa.testcases.LogingPageTest@ea4a92b]" name="crmLogoImgageTest" duration-ms="201" started-at="2018-05-20T18:08:31Z" finished-at="2018-05-20T18:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoImgageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.crm.qa.testcases.LogingPageTest@ea4a92b]" name="loginTest" duration-ms="14288" started-at="2018-05-20T18:08:31Z" finished-at="2018-05-20T18:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LogingPageTest@ea4a92b]" name="tearDown" is-config="true" duration-ms="6133" started-at="2018-05-20T18:08:45Z" finished-at="2018-05-20T18:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LogingPageTest -->
+    </test> <!-- freeCRMTestAutomation -->
+  </suite> <!-- Default Suite -->
+</testng-results>

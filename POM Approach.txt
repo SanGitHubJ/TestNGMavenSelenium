@@ -1,0 +1,25 @@
+
+>>>...POM Approach>>>>>>>>>>>
+
+1> Define All packeges as per desing refer to diagram
+	>Base
+	>loginPages
+	>testCases
+	>config [env veriable]
+	>testData
+	>utils
+	>reports
+
+2> In base Pakage
+	>Define construction same as class name for Property file reader
+	>Define method to initialize browser and define all comman action like timeout, page maxium, etc..
+	
+3> In loginPage packeges
+	> Define methods pages and identifiy  all objects[object repo] for each n every pages seperatly eg > @FindBy(name = "name");
+	
+4> In testCases package
+	> test the all method created in loginPage by callig methods
+	
+	
+	
+	
